@@ -23,7 +23,7 @@
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
-    "eslint": "^5.8.0",
+    "eslint": "^9.32.0",
     "eslint-config-prettier": "^3.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^8.0.0",
@@ -35,6 +35,6 @@
     "gulp-csso": "^3.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-uglify": "^3.0.1",
-    "prettier-eslint": "^8.8.2"
+    "prettier-eslint": "^16.4.2"
   }
 }
